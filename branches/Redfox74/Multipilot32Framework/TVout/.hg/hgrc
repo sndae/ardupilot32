@@ -1,5 +1,0 @@
-[paths]
-default = https://arduino-tvout.googlecode.com/hg/
-[ui]
-username = Myles Metzler <mdmetzle@mtu.edu>
-verbose = true
